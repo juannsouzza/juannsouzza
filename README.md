@@ -75,7 +75,3 @@
 <img align="left" height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhvd2V4c2g0c3cwcGRoYWp1bjRjcnM0cnE2eW5uc2E3ajF4MjJpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3knKct3fGqxhK/giphy.webp"  />
 
 ###
-
-<img align="left" height="120" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFvZTl4eXM4Z3pwMjFpOG05ZWFnOGd1dnltNXRkYWFnNTlsc3l6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RgZFvGuI4OxLjuSvRF/giphy.webp"  />
-
-###
