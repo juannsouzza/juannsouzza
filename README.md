@@ -68,10 +68,6 @@
 
 ###
 
-<img align="left" height="120" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGlnaXhhN3pydDVsbXR1eGRkdnduMnB5eDloNW92ZjZqdHIyeGk5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h0Cq1ClzO3UpupFPjP/giphy.webp"  />
-
-###
-
 <img align="left" height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhvd2V4c2g0c3cwcGRoYWp1bjRjcnM0cnE2eW5uc2E3ajF4MjJpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3knKct3fGqxhK/giphy.webp"  />
 
 ###
