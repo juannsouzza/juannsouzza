@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Sou graduando em ciência da computação e entusiasta em cibersegurança! 💻👾</p>
+<p align="center">Sou graduando em ciência da computação e entusiasta em cibersegurança! Aqui eu procuro compartilhar meus projetos e experiências na área 💻👾</p>
 
 ###
 
