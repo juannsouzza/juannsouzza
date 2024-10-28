@@ -34,9 +34,6 @@
   <a href="https://www.linkedin.com/in/juan-souza-a011a1267/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=red&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://instagram.com/juannsouzza" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000000&logoColor=red&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
 </div>
 
 ###
